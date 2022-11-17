@@ -36,9 +36,9 @@ yarn-error.log*
 next-env.d.ts
 
 # PWA's
-**/chegg-web-app/public/static/sw.js
-**/chegg-web-app/public/static/workbox-*.js
-**/chegg-web-app/public/static/worker-*.js
-**/chegg-web-app/public/static/sw.js.map
-**/chegg-web-app/public/static/workbox-*.js.map
-**/chegg-web-app/public/static/worker-*.js.map
+**/chegg-web-app/public/sw.js
+**/chegg-web-app/public/workbox-*.js
+**/chegg-web-app/public/worker-*.js
+**/chegg-web-app/public/sw.js.map
+**/chegg-web-app/public/workbox-*.js.map
+**/chegg-web-app/public/worker-*.js.map
