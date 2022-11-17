@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# PWA's
+**/chegg-web-app/public/static/sw.js
+**/chegg-web-app/public/static/workbox-*.js
+**/chegg-web-app/public/static/worker-*.js
+**/chegg-web-app/public/static/sw.js.map
+**/chegg-web-app/public/static/workbox-*.js.map
+**/chegg-web-app/public/static/worker-*.js.map
